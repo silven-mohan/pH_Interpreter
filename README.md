@@ -10,14 +10,22 @@ A simple GUI tool that:
 - User-friendly GUI
 - Practical example of embedding C into Python
 
-## 🛠 Requirements
-- Python 3.x
-- `cffi`
-
-## Author: Silven Mohan
-
 ## 🚀 Run
 ```bash
 pip install cffi
 python pH_Interpreter.py
 ```
+
+## 🛠 Requirements
+- Python 3.x
+- `cffi`
+
+---
+
+## 📃License
+
+  See included [LICENSE](./LICENSE) file for more details.
+
+---
+
+## Author: Silven Mohan
